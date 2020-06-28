@@ -1,5 +1,5 @@
-##########Match The Pair
-# python_game
+##########python_game
+# Match The Pair
 Here is a simple game called Match The Pair.
 This game is coded using Python language.
 The specific library used is Pygame.
