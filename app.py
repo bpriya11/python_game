@@ -41,6 +41,8 @@ while running:
                     current_images_displayed = current_images_displayed[1:] + [index]
                 else:
                     current_images_displayed.append(index)
+            else:
+                current_images_displayed.remove(index)
 
     # Display animals
     if i == 0:
